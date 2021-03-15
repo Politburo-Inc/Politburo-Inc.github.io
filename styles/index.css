@@ -1,0 +1,11 @@
+/* Politburo CSS */
+/* Global Styles*/
+* {
+    box-sizing: border-box;
+}
+/* Class Styles */
+/* ID Styles */
+#test {
+    color: blueviolet;
+}
+/* Element Styles */
