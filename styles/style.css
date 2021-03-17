@@ -6,7 +6,7 @@
 /* Class Styles */
 /* ID Styles */
 #test {
-    color: blueviolet;
+    color: blueviolet; /* why doesnt this work, somone please explain*/
 }
 /* Element Styles */
 h2 {
