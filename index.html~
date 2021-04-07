@@ -8,20 +8,19 @@
         <meta name="keywords" content="HTML, CSS, JavaScript">
         <!--<meta name="description" content="Main HTML for Politburo-Inc">-->
         <!--<meta http-equiv="refresh" content="30">-->
-	    <address> Written by Politburo-Inc</address>
-        <!--Constant Links-->
+	<address> Written by Politburo-Inc</address>h
+
+
         <link rel="stylesheet" type="text/css" href="/styles/style.css">
         <script type="text/javascript" src="/javascript/app.js" defer></script>
-        <!--Constant Links-->
         <title>Politburo-Inc</title>
     </head>
     <body>
         <h1>Politburo-Inc</h1>
         <h2 id="test">Patton Pending. <mark>Indefinetly.</mark></h2>
         <div class="address-bar">
-            <h2><a href="projects.html">Projects</a><h2>
-            <h2><a href="">Github</a></h2>
-            <h2><a href="">Contact</a></h2>
+            <a href="">Projects</a>
+            <a href="">Github</a>
         </div>
     </body>
 </html>

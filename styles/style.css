@@ -1,4 +1,7 @@
 /* Politburo CSS */
+
+/*index.html*/
+
 /* Global Styles*/
 * {
     box-sizing: border-box;
@@ -12,3 +15,14 @@
 h2 {
     color: blueviolet;
 }
+
+/*projects.html*/
+
+
+/* Class Styles */
+/* ID Styles */
+#disclaimer {
+    color: red;
+    font-weight: bold;
+}
+/* Element Styles */
